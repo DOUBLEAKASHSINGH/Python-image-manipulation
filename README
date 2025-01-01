@@ -1,0 +1,23 @@
+# Image Processing Examples
+
+This repository contains Python scripts demonstrating basic image processing techniques using OpenCV and matplotlib.
+
+**Scripts:**
+
+* **image_processing.py:** 
+    * Loads an image.
+    * Displays the original image.
+    * Inverts the image.
+    * Converts the image to grayscale.
+    * Applies thresholding to create a binary image.
+
+**Dependencies:**
+
+* OpenCV (cv2)
+* matplotlib
+
+**Installation:**
+
+1. **Install required packages:**
+   ```bash
+   pip install opencv-python matplotlib
